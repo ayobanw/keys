@@ -3,5 +3,5 @@ KEY:ANDROID_ID
 123456:UNKNOWN
 UNKNOWN=MIUI_V123_MI
 
-android_id=SDK_Q_google_x86
-android_id=MIUI_V123_abg
+android_id=SDK_Q_googl
+UNKNOWN=MIUI_V123_abg
