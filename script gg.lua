@@ -1,5 +1,5 @@
 local github_user = "ayobanw"
-local repo_name = "keys.git"
+local repo_name = "keys"
 local key_file = "keys.txt"
 local script_file = "main.lua"
 
